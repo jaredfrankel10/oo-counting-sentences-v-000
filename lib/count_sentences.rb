@@ -9,7 +9,7 @@ class String
   def question?
 end_with? "?"
   end
-  
+
   def exclamation?
 end_with? "!"
   end
